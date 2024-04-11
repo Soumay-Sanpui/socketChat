@@ -36,11 +36,6 @@ The frontend is built using React and communicates with the backend server via W
 
 The application can be deployed to platforms like Netlify (for the frontend) and Heroku (for the backend). Environment variables should be configured to manage sensitive information and deployment settings.
 
-## Future Improvements 🌟
-
-- **User Authentication**: Implement user authentication to secure chat rooms and identify users.
-- **Message History**: Store and retrieve message history to display previous messages when users join a room.
-- **Enhanced UI**: Improve the UI with features like user avatars, message reactions, and notification badges.
 
 ## Conclusion 🎉
 
